@@ -4,12 +4,10 @@
 # Skype algobasket
 # Email algobasket@gmail.com
 
-################################################################
 #  Goals of the script:
 #  To install the secured crypto currency exchange
 #
 #  Script by Algobasket.
-################################################################
 
 sudo apt-get -y install boxes;
 sudo apt-get -y update
